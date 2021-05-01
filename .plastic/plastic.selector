@@ -1,0 +1,4 @@
+repository "Getting-0ver-It-With-Caihua@ssl://ostts_shdocter@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/sun_set1102" 
+     
