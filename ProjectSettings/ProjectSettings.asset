@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: osttsStudio
-  productName: Getting-0ver-It-With-Caihua
+  productName: Getting-0ver-It-With-Caihua-v1.2-beta
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -151,11 +151,12 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.osttsStudio.Getting0verItWithCaihua
+    Standalone: com.osttsStudio.Getting-0ver-It-With-Caihua
   buildNumber:
-    Standalone: 0
+    Standalone: 1.2
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
+  overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 2
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 0
